@@ -4,7 +4,7 @@ import { EVMEthers5Client } from '@reown/appkit-adapters-ethers'
 import { EthersAdapter } from '@reown/appkit-adapter-ethers'
 
 
-const projectId = 
+const projectId = 'f7355c4a8483073af9629880e7887524'
 
 // 2. Create a function to fetch the Blockchain API RPC URL
 function getBlockchainApiRpcUrl(chainId: number) {
